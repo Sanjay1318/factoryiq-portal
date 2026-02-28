@@ -21,7 +21,6 @@
 - [Tech Stack](#-tech-stack)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -230,12 +229,6 @@ Contributions, issues, and feature requests are welcome!
 5. Open a Pull Request
 
 Please make sure to update tests as appropriate.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
