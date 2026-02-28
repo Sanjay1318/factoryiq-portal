@@ -13,7 +13,6 @@
 
 - [Overview](#-overview)
 - [Features](#-features)
-- [Screenshots](#-screenshots)
 - [Getting Started](#-getting-started)
 - [Login Credentials](#-login-credentials)
 - [Modules](#-modules)
@@ -55,20 +54,6 @@ The portal features **role-based access control** with two roles out of the box:
 
 ---
 
-## 📸 Screenshots
-
-> _Login · Dashboard · Programs · Quality · Supply Chain · Analytics_
-
-| Login | Admin Dashboard |
-|-------|----------------|
-| Dark themed login with role-based demo buttons | Ops overview with KPIs, activity feed, line utilization |
-
-| Quality & Compliance | Supply Chain |
-|----------------------|--------------|
-| NCR/CAPA tracker + certification library + SPC | PO tracking + inventory thresholds + supplier scores |
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -80,10 +65,10 @@ The portal features **role-based access control** with two roles out of the box:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/nexgile-factoryiq-portal.git
+git clone https://github.com/Sanjay1318/factoryiq-portal.git
 
 # 2. Navigate into the project
-cd nexgile-factoryiq-portal
+cd factoryiq-portal
 
 # 3. Install dependencies
 npm install
