@@ -256,6 +256,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-Built by **Nexgile** — Manufacturing Intelligence Platform
+**Sanjay** — Frontend Developer
+Built as a technical assessment for **Nexgile Technologies**
 
-> _"Single portal for end-to-end visibility across R&D, production, quality/compliance, supply chain, and after-sales."_
+- GitHub: [@Sanjay1318](https://github.com/Sanjay1318)
